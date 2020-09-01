@@ -1,5 +1,5 @@
 # Test file for next biggest number
-num = 3399 # 3939
+num = 76778 # 
 print([x for x in str(num)])
 
 
@@ -69,6 +69,6 @@ else:
                 out = int(''.join(c_l))
                 it3 = it3 + 1
             else:
-                it = it + 1
+                break
 
 print(out)
